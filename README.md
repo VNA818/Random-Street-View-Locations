@@ -1,4 +1,4 @@
-# Random-Street-View-Locations
+# Random Street View Locations
 JSON file containing random Google Street View coordinates
 
 **Size:** _4757_ (locations)
