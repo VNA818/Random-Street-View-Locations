@@ -10,7 +10,7 @@ JSON file containing random coordinates that are valid Google Street View locati
   locations: [
     [<lattitude>, <longitude>],
     ...
-    ]
+  ]
 }
 ```
 
